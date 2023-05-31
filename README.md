@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beaprogrramer" alt="beaprogrramer" /></a> </p>
 
-- 🔭 I’m currently working on **Face Detection**
-
 - 🌱 I’m currently learning **Cloud computing**
 
 - 👯 I’m looking to collaborate on **AI/Ml Projects**
-
-- 🤝 I’m looking for help with **Hospital management system**
 
 - 💬 Ask me about **Frontened**
 
