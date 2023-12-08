@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beaprogrramer" alt="beaprogrramer" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud computing**
-
-- 👯 I’m looking to collaborate on **AI/Ml Projects**
-
-- 💬 Ask me about **Frontened**
-
-- 📫 How to reach me **itsanushkaid@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anushka-singhal-18275b1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushka-singhal-18275b1b9" height="30" width="40" /></a>
